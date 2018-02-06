@@ -1,15 +1,6 @@
 
 # Catálogo de requisitos
 
-| **Requisitos técnicos mínimos**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
-
-
 | **R01**     | **Incidencias en Github**           |
 | --------------: | :------------------- |
 | **Descripción** | Requisitos perfectamente definidos y convertidos en incidencias (Issues) de Github.             |
@@ -199,7 +190,7 @@
 | **Entrega**     | v1             |
 
 
-| **R22**     | **PostgreSQL **           |
+| **R22**     | **PostgreSQL**           |
 | --------------: | :------------------- |
 | **Descripción** | Usar PostgreSQL versión 9.6 o superior.             |
 | **Prioridad**   | Mínimo           |
@@ -334,18 +325,9 @@
 | **Entrega**     | v3             |
 
 
-| **Requisitos funcionales**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
-
-
 | **R37**     | **Registro de usuario**           |
 | --------------: | :------------------- |
-| **Descripción** | La aplicación permitirá el registro de usuarios, teniendo que facilitar un nombre de usuario único, una dirección de correo válida y única, y una contraseña.             |
+| **Descripción** | La aplicación permitirá el registro de usuarios.             |
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
@@ -559,16 +541,7 @@
 | **Entrega**     | v1             |
 
 
-| **R61**     | **Ver solicitudes**           |
-| --------------: | :------------------- |
-| **Descripción** | La aplicación permitirá ver todas las solicitudes que se hayan recibido.             |
-| **Prioridad**   | Importante           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Difícil         |
-| **Entrega**     | v1             |
-
-
-| **R62**     | **Ver notificaciones**           |
+| **R61**     | **Ver notificaciones**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá ver todas las notificaciones que se hayan recibido.             |
 | **Prioridad**   | Importante           |
@@ -577,7 +550,7 @@
 | **Entrega**     | v1             |
 
 
-| **R63**     | **Recibir notificación por nuevo seguidor**           |
+| **R62**     | **Recibir notificación por nuevo seguidor**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá recibir notificaciones cuando un usuario haya empezado a seguirnos.             |
 | **Prioridad**   | Importante           |
@@ -586,16 +559,7 @@
 | **Entrega**     | v2             |
 
 
-| **R64**     | **Recibir notificación por solicitud de unirse a ambientación**           |
-| --------------: | :------------------- |
-| **Descripción** | La aplicación permitirá recibir una notificación cuando un usuario solicite que su personaje sea incluido en una ambientación que sea de nuestra autoría.             |
-| **Prioridad**   | Importante           |
-| **Tipo**        | Funcional                |
-| **Complejidad** | Difícil         |
-| **Entrega**     | v2             |
-
-
-| **R65**     | **Recibir notificación por mensaje privado**           |
+| **R63**     | **Recibir notificación por mensaje privado**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá recibir una notificación cuando se reciba un mensaje privado enviado por otro usuario.             |
 | **Prioridad**   | Importante           |
@@ -604,7 +568,7 @@
 | **Entrega**     | v2             |
 
 
-| **R66**     | **Crear personaje**           |
+| **R64**     | **Crear personaje**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá crear un personaje, y al hacerlo se indicará la privacidad de éste (público, privado, sólo para seguidores...).             |
 | **Prioridad**   | Mínimo           |
@@ -613,7 +577,7 @@
 | **Entrega**     | v1             |
 
 
-| **R67**     | **Modificar personaje**           |
+| **R65**     | **Modificar personaje**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá modificar un personaje propio.             |
 | **Prioridad**   | Mínimo           |
@@ -622,7 +586,7 @@
 | **Entrega**     | v1             |
 
 
-| **R68**     | **Eliminar personaje**           |
+| **R66**     | **Eliminar personaje**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá eliminar un personaje propio.             |
 | **Prioridad**   | Mínimo           |
@@ -631,7 +595,7 @@
 | **Entrega**     | v1             |
 
 
-| **R69**     | **Ver personajes**           |
+| **R67**     | **Ver personajes**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá visualizar nuestros propios personajes.             |
 | **Prioridad**   | Mínimo           |
@@ -640,7 +604,7 @@
 | **Entrega**     | v1             |
 
 
-| **R70**     | **Buscar un usuario**           |
+| **R68**     | **Buscar un usuario**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá buscar a otros usuarios con diferentes filtros de búsqueda.             |
 | **Prioridad**   | Mínimo           |
@@ -649,7 +613,7 @@
 | **Entrega**     | v1             |
 
 
-| **R71**     | **Buscar un personaje**           |
+| **R69**     | **Buscar un personaje**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá buscar a otros personajes con diferentes filtros de búsqueda.             |
 | **Prioridad**   | Mínimo           |
@@ -658,7 +622,7 @@
 | **Entrega**     | v1             |
 
 
-| **R72**     | **Publicar un comentario**           |
+| **R70**     | **Publicar un comentario**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá publicar comentarios en publicaciones o personajes (si éstos lo permiten).             |
 | **Prioridad**   | Importante           |
@@ -667,7 +631,7 @@
 | **Entrega**     | v2             |
 
 
-| **R73**     | **Editar comentario**           |
+| **R71**     | **Editar comentario**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá modificar los propios comentarios.             |
 | **Prioridad**   | Importante           |
@@ -676,7 +640,7 @@
 | **Entrega**     | v2             |
 
 
-| **R74**     | **Borrar comentario**           |
+| **R72**     | **Borrar comentario**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá borrar los propios comentarios durante los primeros quince minutos tras su publicación.             |
 | **Prioridad**   | Importante           |
@@ -685,7 +649,7 @@
 | **Entrega**     | v2             |
 
 
-| **R75**     | **Crear publicaciones**           |
+| **R73**     | **Crear publicaciones**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá crear publicaciones, que serán propias de cada usuario y se visualizarán en los perfiles de éstos. Además también se podrá definir su privacidad (pública, privada, sólo para seguidores…).             |
 | **Prioridad**   | Importante           |
@@ -694,7 +658,7 @@
 | **Entrega**     | v2             |
 
 
-| **R76**     | **Editar publicaciones**           |
+| **R74**     | **Editar publicaciones**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá modificar las propias publicaciones.             |
 | **Prioridad**   | Importante           |
@@ -703,7 +667,7 @@
 | **Entrega**     | v2             |
 
 
-| **R77**     | **Borrar publicaciones**           |
+| **R75**     | **Borrar publicaciones**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá borrar las propias publicaciones.             |
 | **Prioridad**   | Importante           |
@@ -712,7 +676,7 @@
 | **Entrega**     | v2             |
 
 
-| **R78**     | **Ver publicaciones**           |
+| **R76**     | **Ver publicaciones**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá ver las publicaciones de un usuario.             |
 | **Prioridad**   | Importante           |
@@ -721,7 +685,7 @@
 | **Entrega**     | v2             |
 
 
-| **R79**     | **Crear un árbol genealógico**           |
+| **R77**     | **Crear un árbol genealógico**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá a los usuarios crear árboles genealógicos para sus personajes y vincularlos con otros personajes ya creados.             |
 | **Prioridad**   | Importante           |
@@ -730,7 +694,7 @@
 | **Entrega**     | v3             |
 
 
-| **R80**     | **Editar un árbol genealógico**           |
+| **R78**     | **Editar un árbol genealógico**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá a los usuarios editar sus propios árboles genealógicos.             |
 | **Prioridad**   | Importante           |
@@ -739,7 +703,7 @@
 | **Entrega**     | v3             |
 
 
-| **R81**     | **Solicitar adhesión a un árbol genealógico**           |
+| **R79**     | **Solicitar adhesión a un árbol genealógico**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá solicitar la adhesión a un árbol genealógico ajeno.             |
 | **Prioridad**   | Importante           |
@@ -748,7 +712,7 @@
 | **Entrega**     | v3             |
 
 
-| **R82**     | **Notificación de solicitud de árbol genealógico**           |
+| **R80**     | **Notificación de solicitud de árbol genealógico**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación nos notificará cuando se solicite añadir un personaje a un árbol genealógico.             |
 | **Prioridad**   | Importante           |
@@ -757,7 +721,7 @@
 | **Entrega**     | v3             |
 
 
-| **R83**     | **Aceptar solicitud de árbol genealógico**           |
+| **R81**     | **Aceptar solicitud de árbol genealógico**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá aceptar solicitudes referentes a los árboles genealógicos.             |
 | **Prioridad**   | Importante           |
@@ -766,7 +730,7 @@
 | **Entrega**     | v3             |
 
 
-| **R84**     | **Rechazar solicitud de árbol genealógico**           |
+| **R82**     | **Rechazar solicitud de árbol genealógico**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá rechazar solicitudes referentes a los árboles genealógicos.             |
 | **Prioridad**   | Importante           |
@@ -775,7 +739,7 @@
 | **Entrega**     | v3             |
 
 
-| **R85**     | **Eliminar un árbol genealógico**           |
+| **R83**     | **Eliminar un árbol genealógico**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá a los usuarios borrar sus propios árboles genealógicos. Si hay otros personajes implicados sólo podrá borrarlos el creador.             |
 | **Prioridad**   | Importante           |
@@ -784,7 +748,7 @@
 | **Entrega**     | v3             |
 
 
-| **R86**     | **Vincular árbol genealógico y personajes**           |
+| **R84**     | **Vincular árbol genealógico y personajes**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá vincular un árbol genealógico con un personaje o personajes, de modo que se podrán visualizar desde la información de éstos.             |
 | **Prioridad**   | Importante           |
@@ -793,7 +757,7 @@
 | **Entrega**     | v3             |
 
 
-| **R87**     | **Generar árbol genealógico visual**           |
+| **R85**     | **Generar árbol genealógico visual**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá generar un árbol genealógico visual y exportarlo en formato HTML.             |
 | **Prioridad**   | Opcional           |
@@ -802,7 +766,7 @@
 | **Entrega**     | v3             |
 
 
-| **R88**     | **Generar personaje aleatorio**           |
+| **R86**     | **Generar personaje aleatorio**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá generar un personaje de forma aleatoria.             |
 | **Prioridad**   | Opcional           |
@@ -811,7 +775,7 @@
 | **Entrega**     | v3             |
 
 
-| **R89**     | **Elegir idioma**           |
+| **R87**     | **Elegir idioma**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación estará disponible en inglés y en español.             |
 | **Prioridad**   | Mínimo           |
@@ -820,7 +784,7 @@
 | **Entrega**     | v3             |
 
 
-| **R90**     | **Sugerir traducción**           |
+| **R88**     | **Sugerir traducción**           |
 | --------------: | :------------------- |
 | **Descripción** | La aplicación permitirá enviar sugerencias de traducciones, o correcciones de traducciones ya existentes a través de un formulario.             |
 | **Prioridad**   | Mínimo           |
@@ -829,202 +793,85 @@
 | **Entrega**     | v3             |
 
 
-| **R91**     | **Uso de Amazon S3**           |
+| **R89**     | **Uso de Amazon S3**           |
 | --------------: | :------------------- |
 | **Descripción** | Se investigará el uso de Amazon S3 para usarla para subir archivos.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Difícil         |
+| **Complejidad** | Media         |
 | **Entrega**     | v2             |
 
 
-| **Almacenamiento**     | ****           |
+| **R90**     | **Info. Registro de Usuario**           |
 | --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   |            |
-| **Tipo**        |                 |
-| **Complejidad** |          |
-| **Entrega**     |              |
-
-
-| **R92**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
+| **Descripción** | Para efectuar el registro de usuario, se almacenará como mínimo un nombre de usuario único e irrepetible, una dirección de correo válida e irrepetible, y una contraseña.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Información                |
 | **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
 
-| **R93**     | ****           |
+| **R91**     | **Info. Datos de Usuario**           |
 | --------------: | :------------------- |
-| **Descripción** |              |
+| **Descripción** | Adicionalmente, al completar el perfil, se almacenará de un usuario, cómo mínimo: aficiones, temática favorita, plataformas, web, avatar…             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Información                |
 | **Complejidad** | Fácil         |
-| **Entrega**     | v5             |
+| **Entrega**     | v1             |
 
 
-| **R94**     | ****           |
+| **R92**     | **Info. Mensajes Privados**           |
 | --------------: | :------------------- |
-| **Descripción** |              |
+| **Descripción** | Se almacenará el emisor, el receptor, el contenido y la fecha.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Información                |
 | **Complejidad** | Fácil         |
-| **Entrega**     | v6             |
+| **Entrega**     | v1             |
 
 
-| **R95**     | ****           |
+| **R93**     | **Info. Personajes**           |
 | --------------: | :------------------- |
-| **Descripción** |              |
+| **Descripción** | Se almacenará, como mínimo: nombre, edad, historia y otros datos.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Información                |
 | **Complejidad** | Fácil         |
-| **Entrega**     | v7             |
+| **Entrega**     | v1             |
 
 
-| **R96**     | ****           |
+| **R94**     | **Info. Comentarios**           |
 | --------------: | :------------------- |
-| **Descripción** |              |
+| **Descripción** | Se almacenará el nombre del emisor, si se trata de un comentario a una publicación o personaje, el id de dicha publicación o personaje, el contenido, la fecha y comentario al que responde (si lo hubiera).             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Información                |
 | **Complejidad** | Fácil         |
-| **Entrega**     | v8             |
+| **Entrega**     | v2             |
 
 
-| **R97**     | ****           |
+| **R95**     | **Info. Publicaciones**           |
 | --------------: | :------------------- |
-| **Descripción** |              |
+| **Descripción** | Se almacenará el autor, el contenido y la fecha.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Información                |
 | **Complejidad** | Fácil         |
-| **Entrega**     | v9             |
+| **Entrega**     | v2             |
 
 
-| **R98**     | ****           |
+| **R96**     | **Info. Árbol genealógico**           |
 | --------------: | :------------------- |
-| **Descripción** |              |
+| **Descripción** | Se almacenará, como mínimo: el personaje para el que fue creado, y las relaciones personaje-familiar.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Información                |
 | **Complejidad** | Fácil         |
-| **Entrega**     | v10             |
+| **Entrega**     | v3             |
 
 
-| **R99**     | ****           |
+| **R97**     | **Info. Sugerencias de traducción**           |
 | --------------: | :------------------- |
-| **Descripción** |              |
+| **Descripción** | Se almacenará, como mínimo: el nombre del emisor, el contenido y  la fecha.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Información                |
 | **Complejidad** | Fácil         |
-| **Entrega**     | v11             |
-
-
-| **R100**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Importante           |
-| **Tipo**        | Información                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v12             |
-
-
-| **R101**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Importante           |
-| **Tipo**        | Información                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v13             |
-
-
-| **R102**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Importante           |
-| **Tipo**        | Información                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v14             |
-
-
-| **R103**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Importante           |
-| **Tipo**        | Información                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v15             |
-
-
-| **R104**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Importante           |
-| **Tipo**        | Información                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v16             |
-
-
-| **R105**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Importante           |
-| **Tipo**        | Información                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v17             |
-
-
-| **R106**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Importante           |
-| **Tipo**        | Información                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v18             |
-
-
-| **R107**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Importante           |
-| **Tipo**        | Información                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v19             |
-
-
-| **R108**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Importante           |
-| **Tipo**        | Información                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v20             |
-
-
-| **R109**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Importante           |
-| **Tipo**        | Información                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v21             |
-
-
-| **R110**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Importante           |
-| **Tipo**        | Información                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v22             |
-
-
-| **R111**     | ****           |
-| --------------: | :------------------- |
-| **Descripción** |              |
-| **Prioridad**   | Importante           |
-| **Tipo**        | Información                |
-| **Complejidad** | Fácil         |
-| **Entrega**     | v23             |
+| **Entrega**     | v3             |
 
 
 
@@ -1032,7 +879,6 @@
 
 | **Requisito** | **Prioridad** | **Tipo** | **Complejidad** | **Entrega** |
 | :------------ | :-----------: | :------: | :-------------: | :---------: |
-| (**Requisitos técnicos mínimos**)  |  |  |  |  |
 | (**R01**) Incidencias en Github | Mínimo | Técnico | Fácil | v1 |
 | (**R02**) Código fuente en Github | Mínimo | Técnico | Fácil | v1 |
 | (**R03**) Estilo del código según Yii | Mínimo | Técnico | Fácil | v1 |
@@ -1054,7 +900,7 @@
 | (**R19**) Uso de AJAX | Mínimo | Técnico | Media | v2 |
 | (**R20**) PHP 7.1 | Mínimo | Técnico | Fácil | v1 |
 | (**R21**) Yii2 Framework | Mínimo | Técnico | Fácil | v1 |
-| (**R22**) PostgreSQL  | Mínimo | Técnico | Fácil | v1 |
+| (**R22**) PostgreSQL | Mínimo | Técnico | Fácil | v1 |
 | (**R23**) Uso de Heroku | Mínimo | Técnico | Media | v3 |
 | (**R24**) Uso de Codeception | Mínimo | Técnico | Media | v1 |
 | (**R25**) Uso de Code Climate | Mínimo | Técnico | Media | v1 |
@@ -1069,7 +915,6 @@
 | (**R34**) Diseño apto para diferentes navegadores | Mínimo | Técnico | Difícil | v3 |
 | (**R35**) Despliegue en Host | Mínimo | Técnico | Difícil | v3 |
 | (**R36**) Despliegue en local | Mínimo | Técnico | Difícil | v3 |
-| (**Requisitos funcionales**)  |  |  |  |  |
 | (**R37**) Registro de usuario | Mínimo | Funcional | Fácil | v1 |
 | (**R38**) Correo de confirmación | Importante | Funcional | Media | v1 |
 | (**R39**) Moderar usuarios | Importante | Funcional | Media | v3 |
@@ -1094,55 +939,40 @@
 | (**R58**) Recibir mensaje privado | Importante | Funcional | Media | v1 |
 | (**R59**) Eliminar mensaje privado | Importante | Funcional | Media | v1 |
 | (**R60**) Bloquear un usuario | Importante | Funcional | Media | v1 |
-| (**R61**) Ver solicitudes | Importante | Funcional | Difícil | v1 |
-| (**R62**) Ver notificaciones | Importante | Funcional | Difícil | v1 |
-| (**R63**) Recibir notificación por nuevo seguidor | Importante | Funcional | Difícil | v2 |
-| (**R64**) Recibir notificación por solicitud de unirse a ambientación | Importante | Funcional | Difícil | v2 |
-| (**R65**) Recibir notificación por mensaje privado | Importante | Funcional | Difícil | v2 |
-| (**R66**) Crear personaje | Mínimo | Funcional | Fácil | v1 |
-| (**R67**) Modificar personaje | Mínimo | Funcional | Fácil | v1 |
-| (**R68**) Eliminar personaje | Mínimo | Funcional | Fácil | v1 |
-| (**R69**) Ver personajes | Mínimo | Funcional | Fácil | v1 |
-| (**R70**) Buscar un usuario | Mínimo | Funcional | Media | v1 |
-| (**R71**) Buscar un personaje | Mínimo | Funcional | Media | v1 |
-| (**R72**) Publicar un comentario | Importante | Funcional | Media | v2 |
-| (**R73**) Editar comentario | Importante | Funcional | Media | v2 |
-| (**R74**) Borrar comentario | Importante | Funcional | Difícil | v2 |
-| (**R75**) Crear publicaciones | Importante | Funcional | Media | v2 |
-| (**R76**) Editar publicaciones | Importante | Funcional | Media | v2 |
-| (**R77**) Borrar publicaciones | Importante | Funcional | Media | v2 |
-| (**R78**) Ver publicaciones | Importante | Funcional | Media | v2 |
-| (**R79**) Crear un árbol genealógico | Importante | Funcional | Difícil | v3 |
-| (**R80**) Editar un árbol genealógico | Importante | Funcional | Difícil | v3 |
-| (**R81**) Solicitar adhesión a un árbol genealógico | Importante | Funcional | Difícil | v3 |
-| (**R82**) Notificación de solicitud de árbol genealógico | Importante | Funcional | Difícil | v3 |
-| (**R83**) Aceptar solicitud de árbol genealógico | Importante | Funcional | Difícil | v3 |
-| (**R84**) Rechazar solicitud de árbol genealógico | Importante | Funcional | Difícil | v3 |
-| (**R85**) Eliminar un árbol genealógico | Importante | Funcional | Media | v3 |
-| (**R86**) Vincular árbol genealógico y personajes | Importante | Funcional | Media | v3 |
-| (**R87**) Generar árbol genealógico visual | Opcional | Funcional | Difícil | v3 |
-| (**R88**) Generar personaje aleatorio | Opcional | Funcional | Difícil | v3 |
-| (**R89**) Elegir idioma | Mínimo | Funcional | Difícil | v3 |
-| (**R90**) Sugerir traducción | Mínimo | Funcional | Fácil | v3 |
-| (**R91**) Uso de Amazon S3 | Importante | Funcional | Difícil | v2 |
-| (**Almacenamiento**)  |  |  |  |  |
-| (**R92**)  | Importante | Información | Fácil | v1 |
-| (**R93**)  | Importante | Información | Fácil | v5 |
-| (**R94**)  | Importante | Información | Fácil | v6 |
-| (**R95**)  | Importante | Información | Fácil | v7 |
-| (**R96**)  | Importante | Información | Fácil | v8 |
-| (**R97**)  | Importante | Información | Fácil | v9 |
-| (**R98**)  | Importante | Información | Fácil | v10 |
-| (**R99**)  | Importante | Información | Fácil | v11 |
-| (**R100**)  | Importante | Información | Fácil | v12 |
-| (**R101**)  | Importante | Información | Fácil | v13 |
-| (**R102**)  | Importante | Información | Fácil | v14 |
-| (**R103**)  | Importante | Información | Fácil | v15 |
-| (**R104**)  | Importante | Información | Fácil | v16 |
-| (**R105**)  | Importante | Información | Fácil | v17 |
-| (**R106**)  | Importante | Información | Fácil | v18 |
-| (**R107**)  | Importante | Información | Fácil | v19 |
-| (**R108**)  | Importante | Información | Fácil | v20 |
-| (**R109**)  | Importante | Información | Fácil | v21 |
-| (**R110**)  | Importante | Información | Fácil | v22 |
-| (**R111**)  | Importante | Información | Fácil | v23 |
+| (**R61**) Ver notificaciones | Importante | Funcional | Difícil | v1 |
+| (**R62**) Recibir notificación por nuevo seguidor | Importante | Funcional | Difícil | v2 |
+| (**R63**) Recibir notificación por mensaje privado | Importante | Funcional | Difícil | v2 |
+| (**R64**) Crear personaje | Mínimo | Funcional | Fácil | v1 |
+| (**R65**) Modificar personaje | Mínimo | Funcional | Fácil | v1 |
+| (**R66**) Eliminar personaje | Mínimo | Funcional | Fácil | v1 |
+| (**R67**) Ver personajes | Mínimo | Funcional | Fácil | v1 |
+| (**R68**) Buscar un usuario | Mínimo | Funcional | Media | v1 |
+| (**R69**) Buscar un personaje | Mínimo | Funcional | Media | v1 |
+| (**R70**) Publicar un comentario | Importante | Funcional | Media | v2 |
+| (**R71**) Editar comentario | Importante | Funcional | Media | v2 |
+| (**R72**) Borrar comentario | Importante | Funcional | Difícil | v2 |
+| (**R73**) Crear publicaciones | Importante | Funcional | Media | v2 |
+| (**R74**) Editar publicaciones | Importante | Funcional | Media | v2 |
+| (**R75**) Borrar publicaciones | Importante | Funcional | Media | v2 |
+| (**R76**) Ver publicaciones | Importante | Funcional | Media | v2 |
+| (**R77**) Crear un árbol genealógico | Importante | Funcional | Difícil | v3 |
+| (**R78**) Editar un árbol genealógico | Importante | Funcional | Difícil | v3 |
+| (**R79**) Solicitar adhesión a un árbol genealógico | Importante | Funcional | Difícil | v3 |
+| (**R80**) Notificación de solicitud de árbol genealógico | Importante | Funcional | Difícil | v3 |
+| (**R81**) Aceptar solicitud de árbol genealógico | Importante | Funcional | Difícil | v3 |
+| (**R82**) Rechazar solicitud de árbol genealógico | Importante | Funcional | Difícil | v3 |
+| (**R83**) Eliminar un árbol genealógico | Importante | Funcional | Media | v3 |
+| (**R84**) Vincular árbol genealógico y personajes | Importante | Funcional | Media | v3 |
+| (**R85**) Generar árbol genealógico visual | Opcional | Funcional | Difícil | v3 |
+| (**R86**) Generar personaje aleatorio | Opcional | Funcional | Difícil | v3 |
+| (**R87**) Elegir idioma | Mínimo | Funcional | Difícil | v3 |
+| (**R88**) Sugerir traducción | Mínimo | Funcional | Fácil | v3 |
+| (**R89**) Uso de Amazon S3 | Importante | Funcional | Media | v2 |
+| (**R90**) Info. Registro de Usuario | Importante | Información | Fácil | v1 |
+| (**R91**) Info. Datos de Usuario | Importante | Información | Fácil | v1 |
+| (**R92**) Info. Mensajes Privados | Importante | Información | Fácil | v1 |
+| (**R93**) Info. Personajes | Importante | Información | Fácil | v1 |
+| (**R94**) Info. Comentarios | Importante | Información | Fácil | v2 |
+| (**R95**) Info. Publicaciones | Importante | Información | Fácil | v2 |
+| (**R96**) Info. Árbol genealógico | Importante | Información | Fácil | v3 |
+| (**R97**) Info. Sugerencias de traducción | Importante | Información | Fácil | v3 |
