@@ -1,4 +1,4 @@
-% LamC: Look at my Character
+% The Artchive
 % María Valderrama Rodríguez
 % Curso 2017/18
 
